@@ -1,12 +1,9 @@
-import type { NextPage } from 'next';
-import { Group } from '@mantine/core';
+import { useEffect, useRef, useState } from 'react';
 
-const Home: NextPage = () => {
-  return (
-    <Group direction="column">
-      
-    </Group>
-  );
+const Home = () => {
+  return (<>
+    
+  </>);
 }
 
 export default Home;
