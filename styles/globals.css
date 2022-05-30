@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+body {
+  background-color: #dadada;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
